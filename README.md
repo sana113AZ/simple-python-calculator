@@ -12,7 +12,7 @@ A simple calculator built using **Python** and **Tkinter** GUI library.
 - Tkinter (built-in GUI library)
 
 ### 📸 Screenshot:
-*(Add one if you want later)*
+<img width="417" height="421" alt="image" src="https://github.com/user-attachments/assets/4d495520-73c8-44bf-81f7-f90bc6c2f7a1" />
 
 ### ▶️ How to run:
 1. Clone or download the repository:
